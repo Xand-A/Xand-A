@@ -1,17 +1,20 @@
+<h3 align="center">CV</h3>
 
 
+<h2>👋 About me </h2>
 
-<h2> About me </h2>
+Hi, I’m a Geospatial Analyst in the South East of England. 
 
-- 👋 Hi, I’m a Geospatial Analyst working in the South East of England.
-- 👀 I’m interested in Geospatial, pricing and python based coding
-- 🌱 I’m currently learning the basics of data science and looking to put this into practice
+I have had close to a decade of experience working in the insurance industry in data roles such as underwriting, pricing and most recently geospatial analysis. I've had experience working in front and backend enviroments, and recently I am learning to use Docker to build apps in order to create self service apps for stakeholders removing manual processes
+
+Last year I compeleted the Corndel Data Science academy, with a distinction, and I'm looking to further continue to develop my learning of DS and various languages 
+
 
 **Find out more** 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armstrongalexander/)
 
-<h3>Technologies I'm Learning📚</h3>
+<h3>📚 Technologies I'm Learning</h3>
 
 **Software**
 
