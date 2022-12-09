@@ -7,9 +7,10 @@ I have had close to a decade of experience working in the insurance industry in 
 Last year I compeleted the Corndel Data Science academy, with a distinction, and I'm looking to further continue to develop my learning of DS and various languages 
 
 
-**Find out more** 
+**🤝🏻 Connect w/ me** 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armstrongalexander/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_earmstrong)
 
 <h3>📚 Technologies I'm Learning</h3>
 
