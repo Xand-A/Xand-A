@@ -1,6 +1,3 @@
-<h3 align="center">CV</h3>
-
-
 <h2>👋 About me </h2>
 
 Hi, I’m a Geospatial Analyst in the South East of England. 
