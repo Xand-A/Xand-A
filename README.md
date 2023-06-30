@@ -1,10 +1,10 @@
 <h2>👋 About me </h2>
 
-Hi, I’m a Geospatial Analyst in the South East of England. 
+Hi, I’m a Geospatial Analyst from the South East of England. 
 
-I have had close to a decade of experience working in the insurance industry in data roles such as underwriting, pricing and most recently geospatial analysis. I've had experience working in front and backend enviroments, and recently I am learning to use Docker to build apps in order to create self service apps for stakeholders removing manual processes
+I have had close to a decade of experience working in the insurance industry in data roles such as underwriting, pricing and most recently geospatial analysis. I've had experience working in front and backend enviroments, and recently I am using Python to develop self service apps for stakeholders removing manual processes
 
-Last year I compeleted the Corndel Data Science academy, with a distinction, and I'm looking to further continue to develop my learning of DS and various languages 
+I recently compeleted the Corndel Data Science academy, with a distinction, and I'm looking to further continue to develop my learning of DS and various languages 
 
 
 **🤝🏻 Connect w/ me** 
@@ -22,7 +22,7 @@ Last year I compeleted the Corndel Data Science academy, with a distinction, and
 **Frontend**
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-[![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
+![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 **Backend**
 
