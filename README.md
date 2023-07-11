@@ -22,7 +22,6 @@ I recently compeleted the Corndel Data Science academy, with a distinction, and 
 **Frontend**
 
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 
 **Backend**
 
