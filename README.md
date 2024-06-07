@@ -1,6 +1,6 @@
 <h2>👋 About me </h2>
 
-Hi, I’m a Geospatial Analyst from the South East of England. 
+Hi, I’m a Geospatial Data Scientist from the South East of England. 
 
 I have had close to a decade of experience working in the insurance industry in data roles such as underwriting, pricing and most recently geospatial analysis. I've had experience working in front and backend enviroments, and recently I am using Python to develop self service apps for stakeholders removing manual processes
 
