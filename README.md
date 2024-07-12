@@ -10,7 +10,6 @@ I recently compeleted the Corndel Data Science academy, with a distinction, and 
 **🤝🏻 Connect w/ me** 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/armstrongalexander/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/a_earmstrong)
 
 <h3>📚 Technologies I'm Learning</h3>
 
@@ -35,4 +34,5 @@ I recently compeleted the Corndel Data Science academy, with a distinction, and 
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=powerbi&logoColor=black)
 
