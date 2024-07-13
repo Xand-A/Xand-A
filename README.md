@@ -2,7 +2,7 @@
 
 Hi, I’m a Geospatial Data Scientist from the South East of England. 
 
-I have had close to a decade of experience working in the insurance industry in data roles such as underwriting, pricing and most recently geospatial analysis. I've had experience working in front and backend enviroments, and recently I am using Python to develop self service apps for stakeholders removing manual processes
+I have had close to a decade of experience working in the insurance industry in data driven roles such as underwriting, pricing and most recently geospatial analysis. I've had experience working in front and back-end environments, and recently I am using Python to develop self service apps for stakeholders removing manual processes
 
 I recently compeleted the Corndel Data Science academy, with a distinction, and I'm looking to further continue to develop my learning of DS and various languages 
 
@@ -29,10 +29,11 @@ I recently compeleted the Corndel Data Science academy, with a distinction, and 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=powerbi&logoColor=black)
 
 **Tools**
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-3670A0?style=for-the-badge&logo=powerbi&logoColor=black)
+
 
